@@ -1,7 +1,7 @@
 # WebStack
 WordPress 版 WebStack 主题。<a href="http://webstack.iotheme.cn/">前往演示站</a>
 <br/>
-****开发测试
+****开发测试推送
 ### 首页截图
 <br/>
 
